@@ -38,7 +38,7 @@ info:
   app:
     name: EasyAccounts Microservice
     description: Eazy Bank Accounts Application  
-    version: 1.0.0
+    version: 1.0.1
     
     
 server:
