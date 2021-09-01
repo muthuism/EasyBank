@@ -1,0 +1,11 @@
+com\easy\accounts\model\Accounts.class
+com\easy\accounts\model\Loans.class
+com\easy\accounts\EasyaccountsApplication.class
+META-INF\spring-configuration-metadata.json
+com\easy\accounts\model\CustomerDetails.class
+com\easy\accounts\controller\AccountsController.class
+com\easy\accounts\model\Customer.class
+com\easy\accounts\model\Properties.class
+com\easy\accounts\config\EasyAccountsConfig.class
+com\easy\accounts\repository\AccountsRepository.class
+com\easy\accounts\model\Cards.class

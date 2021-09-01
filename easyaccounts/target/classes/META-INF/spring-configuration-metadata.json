@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "easyaccounts",
+      "type": "com.easy.accounts.config.EasyAccountsConfig",
+      "sourceType": "com.easy.accounts.config.EasyAccountsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "easyaccounts.active-branches",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.easy.accounts.config.EasyAccountsConfig"
+    },
+    {
+      "name": "easyaccounts.build-version",
+      "type": "java.lang.String",
+      "sourceType": "com.easy.accounts.config.EasyAccountsConfig"
+    },
+    {
+      "name": "easyaccounts.mail-details",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.easy.accounts.config.EasyAccountsConfig"
+    },
+    {
+      "name": "easyaccounts.msg",
+      "type": "java.lang.String",
+      "sourceType": "com.easy.accounts.config.EasyAccountsConfig"
+    }
+  ],
+  "hints": []
+}
